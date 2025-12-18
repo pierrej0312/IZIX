@@ -97,13 +97,6 @@ export default function EventInfoStep({
                         InputLabelProps={{ shrink: true }}
                         value={value.date}
                         onChange={(e) => update("date", e.target.value)}
-                        InputProps={{
-                            endAdornment: (
-                                <InputAdornment position="end">
-                                    <CalendarMonthIcon fontSize="small" />
-                                </InputAdornment>
-                            ),
-                        }}
                     />
                 </Grid>
 

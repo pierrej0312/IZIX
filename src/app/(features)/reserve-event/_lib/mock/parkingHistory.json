@@ -1,0 +1,21 @@
+{
+  "Parking Office": {
+    "capacityTotal": 220,
+    "guestZoneCapacity": 20,
+    "historical": [
+      { "hour": "08:00", "avgOccupancyPct": 62 },
+      { "hour": "09:00", "avgOccupancyPct": 72 },
+      { "hour": "10:00", "avgOccupancyPct": 78 },
+      { "hour": "11:00", "avgOccupancyPct": 74 },
+      { "hour": "12:00", "avgOccupancyPct": 68 },
+      { "hour": "13:00", "avgOccupancyPct": 61 },
+      { "hour": "14:00", "avgOccupancyPct": 58 },
+      { "hour": "15:00", "avgOccupancyPct": 57 }
+    ],
+    "similarEvents": [
+      { "type": "client_meeting", "guests": 20, "carsPct": 0.8, "spotsUsed": 16 },
+      { "type": "training", "guests": 25, "carsPct": 0.65, "spotsUsed": 17 },
+      { "type": "board_meeting", "guests": 12, "carsPct": 0.9, "spotsUsed": 11 }
+    ]
+  }
+}

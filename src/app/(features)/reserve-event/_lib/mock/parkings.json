@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p_office_01",
+    "name": "Parking Office",
+    "address": "Rue de l'Exemple 12, 1000 Brussels",
+    "lat": 50.8503,
+    "lng": 4.3517,
+    "capacity": { "total": 220, "guestZone": 20, "employeeZone": 200 }
+  },
+  {
+    "id": "p_airport_02",
+    "name": "Parking Airport Business",
+    "address": "Airport Ave 1, 1930 Zaventem",
+    "lat": 50.9010,
+    "lng": 4.4844,
+    "capacity": { "total": 480, "guestZone": 40, "employeeZone": 440 }
+  },
+  {
+    "id": "p_city_03",
+    "name": "Parking City Center",
+    "address": "Boulevard Central 99, 1000 Brussels",
+    "lat": 50.8476,
+    "lng": 4.3572,
+    "capacity": { "total": 160, "guestZone": 16, "employeeZone": 144 }
+  }
+]
